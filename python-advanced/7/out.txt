@@ -1,0 +1,1 @@
+['    compile', '    escape', '    findall', '    finditer', '    fullmatch', '    match', '    purge', '    search', '    split', '    sub', '    subn', '    template']
